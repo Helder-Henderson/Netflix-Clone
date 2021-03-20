@@ -1,2 +1,2 @@
-# Instagram-clone
-Instagram-clone
+# Netflix-Clone
+
