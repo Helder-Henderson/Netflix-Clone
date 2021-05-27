@@ -17,4 +17,6 @@ Durante o bootcamp da Avanade tive oportunidade de recriar a tela principal da N
 <p text-decoration="none"> Em caso de dúvida procurei a -> https://www.w3schools.com </p> 
 
 ### Aqui está uma Pre-View:
-![Netflix](https://user-images.githubusercontent.com/59569208/111883597-67efc580-89cd-11eb-8990-fbd399ca5f67.jpg)
+![netflix](https://user-images.githubusercontent.com/59569208/119746829-b7d48800-be67-11eb-9fe2-9ee89f62734a.gif)
+
+
